@@ -1,1 +1,2 @@
 this is feature C, from featureA
+this is feature C, from featureB
